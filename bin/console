@@ -12,3 +12,4 @@ require "music_list"
 
 require "irb"
 IRB.start(__FILE__)
+
