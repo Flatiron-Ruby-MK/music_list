@@ -1,6 +1,3 @@
-require "music_list/version"
+require_relative "../config/environment.rb"
 
-module MusicList
-  class Error < StandardError; end
-  # Your code goes here...
-end
+
