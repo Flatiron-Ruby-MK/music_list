@@ -6,5 +6,5 @@ require 'pry'
 #require_relative file names that live in app
 
 require_relative "../lib/music_list/api.rb"
-require_relative "../music_list/cli.rb"
-require_relative "../music_list/version"
+require_relative "../lib/music_list/cli.rb"
+require_relative "../lib/music_list/version"

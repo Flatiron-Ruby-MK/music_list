@@ -13,6 +13,7 @@ class CLI
     puts "Please pick an item from below for more information"
     sleep(2)
   end
+end
   
   # def get_list
   #   API.get_categories
