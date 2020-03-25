@@ -9,10 +9,10 @@ class CLI
   end
   
   def welcome
-    puts "Welcome to The Massive Music List"
+    puts "Welcome to The Massive Star Wars Information List"
     sleep(2)
     puts "Please pick an item from below for more information"
-    sleep(2)
+   
   end
 
   

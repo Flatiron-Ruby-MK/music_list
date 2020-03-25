@@ -1,6 +1,6 @@
 class  API
   def self.get_categories
-    response = HTTParty.get("https://lastfmdimashirokovv1.p.rapidapi.com/getAlbumInfo")
+    response = HTTParty.get('https://swapi.co/api/people')
     binding.pry
   end
   
