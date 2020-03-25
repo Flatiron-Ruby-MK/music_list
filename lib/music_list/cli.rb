@@ -15,9 +15,9 @@ class CLI
   end
 end
   
-  # def get_list
-  #   API.get_categories
-  #   #calling api to get list
-  # end
+  def get_list
+    API.get_categories
+    #calling api to get list
+  end
   
   
